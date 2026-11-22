@@ -1,0 +1,1 @@
+{"name":"week12-todo","private":true,"version":"4.0.0","scripts":{"dev":"vite","build":"vite build"},"dependencies":{"react":"19.0.0","react-dom":"19.0.0"},"devDependencies":{"vite":"6.1.0"}}
